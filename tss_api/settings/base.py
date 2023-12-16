@@ -125,7 +125,7 @@ USE_I18N = True
 
 USE_TZ = True
 
-SITE = 1
+SITE_ID = 1
 
 ADMIN_URL = "supersecret/"
 
